@@ -2,4 +2,4 @@ Simple scripts to test a set of websites for [HSTS](https://developer.mozilla.or
 
 Requires: [python-requests](http://docs.python-requests.org/en/latest/)
 
-This script was used in the making of this blog post: TODO
+This script was used in the making of this blog post: <http://feeding.cloud.geek.nz/posts/hsts-scorecard/>
