@@ -12,7 +12,7 @@ sites = [
   ('Citibank', 'https://www.citibank.com.au/AUGCB/JSO/signon/DisplayUsernameSignon.do'),
   ('Commonwealth Bank', 'https://www.my.commbank.com.au/netbank/Logon/Logon.aspx'),
   ('Heritage Bank', 'https://online.hbs.net.au/hbsv47/ntv471.asp?wci=entry'),
-#  ('HSBC' , 'https://www.hsbc.com.au/1/2/HUB_IDV2/IDV_EPP?__IWCountry=US&__IWLang=en&__Destination=HUB_IDV_CUSTOMER_MIGRATION&__menuType=__REGISTRATION&__registrationType=PIB-Registration'),
+  ('HSBC' , 'https://www.hsbc.com.au/1/2/HUB_IDV2/IDV_EPP?__IWCountry=US&__IWLang=en&__Destination=HUB_IDV_CUSTOMER_MIGRATION&__menuType=__REGISTRATION&__registrationType=PIB-Registration'),
   ('Mebank', 'https://ib.mebank.com.au/ME'),
   ('NAB', 'https://ib.nab.com.au/nabib/index.jsp'),
   ('Rabobank', 'https://secure.rabodirect.com.au/exp/policyenforcer/pages/loginB2CDGPEN.jsf?login'),
