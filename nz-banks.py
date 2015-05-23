@@ -3,7 +3,7 @@
 import requests
 
 sites = [
-  ('ASB', 'https://fnc.asbbank.co.nz/1/User/LogOn'),
+  ('ASB', 'https://online.asb.co.nz/auth/'),
   ('ANZ', 'https://secure.anz.co.nz/IBCS/pgLogin'),
   ('ANZ (Direct Online)', 'https://www.anzdirect.co.nz/online/EnterANZDirect.do'),
   ('BankDirect', 'https://vault.bankdirect.co.nz/default.asp'),
